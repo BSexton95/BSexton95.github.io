@@ -1,6 +1,22 @@
----
----
-@import"{{site.theme}}";
-body{
-    background-color : blue;
+body {
+    background-color:rgb(20, 140, 161);
+    color:rgb(160, 72, 0);
+    font-size:large
+}
+a {
+    color:rgb(241, 199, 13);
+    text-decoration: none;
+}
+a:hover {
+    color:rgb(4, 0, 255);
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.portrait {
+    max-width: 250px;
+    width:50%;
 }
