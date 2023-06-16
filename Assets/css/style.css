@@ -1,11 +1,12 @@
 body {
-    background-color:rgb(20, 140, 161);
+    background-color:rgb(133, 150, 145);
     color:rgb(160, 72, 0);
     font-size:large
 }
 a {
-    color:rgb(241, 199, 13);
-    text-decoration: none;
+    color:rgba(158, 34, 25, 0.664);
+    text-decoration:none;
+    font-size:x-large
 }
 a:hover {
     color:rgb(4, 0, 255);
@@ -20,3 +21,8 @@ p {
     max-width: 250px;
     width:50%;
 }
+img {
+    display:block;
+     margin-left:auto;
+    margin-right:auto;
+    }
